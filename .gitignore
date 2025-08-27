@@ -1,5 +1,5 @@
 # Windows enviroment
-.env
+*.env
 
 # Compiled Class fille
-.class
+*.class
